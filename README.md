@@ -12,7 +12,6 @@
 3.	$-(6,599.98) is the minimum profit gotten from the sale of a single product.
 
 
-
 ![](SumSale2.png)                        ![](SumSale2chart.png)
 
 ### INSIGHTS
@@ -62,54 +61,54 @@
 
 1.	Which of the segment is most profitable?
 
-#### ANSWER: the most profitable segment is the consumer segment.
+**ANSWER:** the most profitable segment is the consumer segment.
 
 2.	Which of the categories sells most?
    
-#### ANSWER: Office supply category sells most.
+**ANSWER:** Office supply category sells most.
 
 3.	Which of the state generated the most sales?
    
-#### ANSWER: New York City generated the most sales
+**ANSWER:** New York City generated the most sales
 
 4.	Which of the customers has the highest purchasing power?
    
-#### ANSWER: William Brown, 37 times
+**ANSWER:** William Brown, 37 times
 
 5.	What were at our total expenses?
     
-#### ANSWER: $1,561.09 is our total expenses.
+ **ANSWER:** $1,561.09 is our total expenses.
 
 6.	Which order date has the maximum number of transactions?
     
-#### ANSWER: 9/5/2016 is the date with 38 number of transactions.
+**ANSWER:** 9/5/2016 is the date with 38 number of transactions.
 
 
 ### THE 4 KEY PERFORMANCE INDICATORS
 ------
 
-1. TOTAL REVENUE                         $2,297,200.86 
-2. PROFIT MARGIN                         802% 
-3. TOTAL NUMBER OF SALES RECORDED        9994
-4. HIGHEST PROFIT GENERATED              $8,399.98
+1. TOTAL REVENUE-----------                         **$2,297,200.86** 
+2. PROFIT MARGIN-----------                         **802%** 
+3. TOTAL NUMBER OF SALES RECORDED------------       **9994**
+4. HIGHEST PROFIT GENERATED-----------------        **$8,399.98**
 
 
 ### INFORMATIONS GATHERED FROM DATA WITH THEIR CORRESPONDING FORMULA
 -----
 
-1. highest profit generated         =MAX
-2. lowest profit generated          =MIN
-3. Total Sales                      =SUM                      
-4. Total Discount                   =SUM
-5. Number Of Unit Sold              =COUNT
-6. Average price per unit           =TOTAL SALES/ NUMBER OF UNITS SOLD
-7. Profit Margin                    =TOTAL SALES/ TOTAL PROFIT
-8. Highest profit generated         =MAX
-9. Maximum discount given           =MAX
-10. minimum discount given           =MIN
-11. highest quantity sold            =MAX
-12. minimum quantity sold            =MIN
-13. Total profit                     =SUM
+1. highest profit generated-------------------**MAX**
+2. lowest profit generated--------------------**MIN**
+3. Total Sales--------------------------------**SUM**                    
+4. Total Discount-----------------------------**SUM**
+5. Number Of Unit Sold------------------------**COUNT**
+6. Average price per unit---------------------**TOTAL SALES/ NUMBER OF UNITS SOLD**
+7. Profit Margin------------------------------**TOTAL SALES/ TOTAL PROFIT**
+8. Highest profit generated-------------------**MAX**
+9. Maximum discount given---------------------**MAX**
+10. minimum discount given--------------------**MIN**
+11. highest quantity sold---------------------**MAX**
+12. minimum quantity sold---------------------**MIN**
+13. Total profit------------------------------**SUM**
 
 
 
