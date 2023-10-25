@@ -1,6 +1,6 @@
 ### Comprehensive-Analysis-for-C-C-super-store.
 
-![Screenshot (30)](https://github.com/Ofiaduagbara/Comprehensive-Analysis-for-C-C-super-store./assets/98785237/625c7588-74b1-4b9f-b7f1-86f5f46d4bcd)
+
 
 
 
