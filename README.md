@@ -1,5 +1,9 @@
 ### Comprehensive-Analysis-for-C-C-super-store.
 
+![Screenshot (30)](https://github.com/Ofiaduagbara/Comprehensive-Analysis-for-C-C-super-store./assets/98785237/625c7588-74b1-4b9f-b7f1-86f5f46d4bcd)
+
+
+
 
 ![](sumsale1.png)                        ![](sumsalechart1.png)
 
@@ -12,7 +16,7 @@
 3.	$-(6,599.98) is the minimum profit gotten from the sale of a single product.
 
 
-![](SumSale2.png)                        ![](SumSale2chart.png)
+![](SumSales2.png)                        ![](SumSale2chart.png)
 
 ### INSIGHTS
 ### Sum of profit, discount sales:
@@ -109,24 +113,3 @@
 11. highest quantity sold---------------------**MAX**
 12. minimum quantity sold---------------------**MIN**
 13. Total profit------------------------------**SUM**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
